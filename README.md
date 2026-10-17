@@ -19,3 +19,12 @@ See [setup and reproduction instructions](Industrial_Gripper_Design/README.txt).
 ## Analysis scope
 
 Actual numerical analysis covers an idealized prismatic finger with a fixed root, not the full bolted/contact assembly. The report states omitted features, mesh sensitivity, and design assumptions. STEP files preserve geometry; scripted dimensions and documented motion constraints accompany them rather than native GUI assembly mates.
+
+## IoT weather station — Deep Bisen
+
+- [IoT project ZIP](IoT_Weather_Station_Deep_Bisen.zip) — open and select **Download raw**.
+- [IoT PDF report](IoT_Weather_Station_Deep_Bisen/report.pdf)
+- [Editable IoT report](IoT_Weather_Station_Deep_Bisen/report_editable.docx)
+- [Firmware, cloud scripts and setup](IoT_Weather_Station_Deep_Bisen)
+
+This package includes software and documentation. Physical ESP32/DHT22 testing, target compilation, real ThingSpeak dashboard updates and delivered-email screenshots remain pending. See the report and evidence checklist before final submission.

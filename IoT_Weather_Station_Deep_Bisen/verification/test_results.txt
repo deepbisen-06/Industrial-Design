@@ -1,0 +1,2 @@
+PASS: 14 assertions (sensor bounds, invalid samples, timing and millis rollover).
+PASS: 12 alert-policy reference cases. MATLAB/cloud/API execution not tested.
