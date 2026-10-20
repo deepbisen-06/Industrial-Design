@@ -28,3 +28,12 @@ Actual numerical analysis covers an idealized prismatic finger with a fixed root
 - [Firmware, cloud scripts and setup](IoT_Weather_Station_Deep_Bisen)
 
 This package includes software and documentation. Physical ESP32/DHT22 testing, target compilation, real ThingSpeak dashboard updates and delivered-email screenshots remain pending. See the report and evidence checklist before final submission.
+
+## AI industrial chatbot — Deep Bisen
+
+- [10-page PDF report with handwritten-style notes](AI_Industrial_Chatbot_Deep_Bisen/report.pdf)
+- [Complete AI chatbot ZIP](AI_Industrial_Chatbot_Deep_Bisen.zip) — open and select **Download raw**.
+- [Handwritten-style notes only](AI_Industrial_Chatbot_Deep_Bisen/handwritten_notes.pdf)
+- [Source, sample documents and evidence](AI_Industrial_Chatbot_Deep_Bisen)
+
+Notes are digitally typeset in a handwriting-style font. Retrieval and the explicit no-LLM CLI baseline were tested; actual Hugging Face generation and real LLM interaction screenshots remain pending. Fill personal-detail placeholders and complete that demonstration before claiming all assignment requirements are met.

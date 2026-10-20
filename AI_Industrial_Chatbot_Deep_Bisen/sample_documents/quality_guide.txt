@@ -1,0 +1,10 @@
+EDUCATIONAL QUALITY GUIDE — illustrative project data, not a certified specification.
+
+Dimensional quality
+The sample training bracket has a nominal width of 50.00 mm and a tolerance of plus or minus 0.10 mm. Acceptable width is therefore 49.90 mm to 50.10 mm inclusive. Record results using a calibrated measuring instrument and identify rejected parts.
+
+Document control
+Use only the approved revision of a work instruction. Record the document identifier, revision and inspection date. If instructions conflict, stop the affected task and ask the responsible engineer for clarification.
+
+Fault reporting
+A maintenance record should include the asset identifier, date, observed symptoms, measured values, isolation status and corrective action. Do not invent missing measurements or fault causes.
