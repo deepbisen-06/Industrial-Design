@@ -37,3 +37,12 @@ This package includes software and documentation. Physical ESP32/DHT22 testing, 
 - [Source, sample documents and evidence](AI_Industrial_Chatbot_Deep_Bisen)
 
 Notes are digitally typeset in a handwriting-style font. Retrieval and the explicit no-LLM CLI baseline were tested; actual Hugging Face generation and real LLM interaction screenshots remain pending. Fill personal-detail placeholders and complete that demonstration before claiming all assignment requirements are met.
+
+## ROS 2 URDF 4-DOF arm — Deep Bisen
+
+- [9-page PDF report](ROS2_URDF_4DOF_Arm_Deep_Bisen/report.pdf)
+- [Complete ROS project ZIP](ROS2_URDF_4DOF_Arm_Deep_Bisen.zip) — open and select **Download raw**.
+- [Editable Word report](ROS2_URDF_4DOF_Arm_Deep_Bisen/report_editable.docx)
+- [URDF, ROS 2 launch and RViz configuration](ROS2_URDF_4DOF_Arm_Deep_Bisen/arm_description)
+
+URDF parsing, static structure/inertia checks and four forward-kinematics test poses passed. ROS 2 execution, RViz visualization and live TF screenshots remain pending. The included arm renders and frame graph are clearly labelled static illustrations. Fill personal details and add real runtime evidence before final submission.
