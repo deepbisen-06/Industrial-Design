@@ -1,0 +1,4 @@
+jaw_centre_abs_mm,left_x_mm,right_x_mm,pad_gap_mm
+30,-30,30,38
+45,-45,45,68
+60,-60,60,98

@@ -46,3 +46,16 @@ Notes are digitally typeset in a handwriting-style font. Retrieval and the expli
 - [URDF, ROS 2 launch and RViz configuration](ROS2_URDF_4DOF_Arm_Deep_Bisen/arm_description)
 
 URDF parsing, static structure/inertia checks and four forward-kinematics test poses passed. ROS 2 execution, RViz visualization and live TF screenshots remain pending. The included arm renders and frame graph are clearly labelled static illustrations. The report identifies the student as Deep Bisen only. Add real runtime evidence before final submission.
+
+## Tanvi Khalokar — project copies
+
+Separate copies of the four project packages with Tanvi Khalokar on the reports and revised explanatory wording:
+
+| Project | Submission ZIP | Report PDF |
+| --- | --- | --- |
+| Industrial design | [ZIP](Industrial_Gripper_Design_Tanvi_Khalokar.zip) | [PDF](Industrial_Gripper_Design_Tanvi_Khalokar/report.pdf) |
+| IoT weather station | [ZIP](IoT_Weather_Station_Tanvi_Khalokar.zip) | [PDF](IoT_Weather_Station_Tanvi_Khalokar/report.pdf) |
+| AI industrial chatbot | [ZIP](AI_Industrial_Chatbot_Tanvi_Khalokar.zip) | [PDF](AI_Industrial_Chatbot_Tanvi_Khalokar/report.pdf) |
+| ROS 2 arm | [ZIP](ROS2_URDF_4DOF_Arm_Tanvi_Khalokar.zip) | [PDF](ROS2_URDF_4DOF_Arm_Tanvi_Khalokar/report.pdf) |
+
+Open a ZIP and select **Download raw**. Calculations, recorded results and stated validation limitations are retained. Required practical demonstrations and genuine screenshots remain pending as detailed in each report. Deep Bisen's original project packages are retained separately.

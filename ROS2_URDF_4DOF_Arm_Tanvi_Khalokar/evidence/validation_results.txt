@@ -1,0 +1,5 @@
+PASS: urdf_parser_py parsed model, root=world; 7 links, 6 joints, 4 actuated revolute DOF.
+PASS: unique parents/children, complete connected tree; visual/collision geometry and positive physical inertias.
+PASS: joint axes/limits; 4 analytic FK target poses; out-of-limit rejection.
+PASS: launch Python syntax and RViz YAML structure; runtime ROS2 imports not tested.
+NOT RUN: check_urdf (C++), colcon build, RViz2, live /joint_states, /tf and /tf_static.
