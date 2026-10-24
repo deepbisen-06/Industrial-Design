@@ -22,5 +22,5 @@ Report regeneration requires Python, matplotlib, numpy, reportlab, and python-do
   python build_report.py
 
 The submission folder follows the assignment name IoT_Weather_Station_Deep_Bisen.
-Fill cover placeholders, attach real evidence, update report with actual outcomes,
+Attach real evidence, update report with actual outcomes,
 then ZIP this folder and upload it to Google Drive with the access your instructor requires.

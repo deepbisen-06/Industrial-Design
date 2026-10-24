@@ -11,4 +11,4 @@ Before final submission add:
 6. `06_email_alert.png`: actual received email and timestamp, with private details redacted.
 7. Evidence of normal->high->recovered->high behavior and restored thresholds.
 
-Copy the images into this folder, fill your college/roll/semester in the report source or editable report, regenerate/export report.pdf, and recreate the ZIP before submitting. Live evidence is a requirement of the supplied assignment and is not completed by the included software-only tests.
+Copy the images into this folder, regenerate/export report.pdf, and recreate the ZIP before submitting. Live evidence is a requirement of the supplied assignment and is not completed by the included software-only tests.

@@ -27,7 +27,7 @@ Actual numerical analysis covers an idealized prismatic finger with a fixed root
 - [Editable IoT report](IoT_Weather_Station_Deep_Bisen/report_editable.docx)
 - [Firmware, cloud scripts and setup](IoT_Weather_Station_Deep_Bisen)
 
-This package includes software and documentation. Physical ESP32/DHT22 testing, target compilation, real ThingSpeak dashboard updates and delivered-email screenshots remain pending. See the report and evidence checklist before final submission.
+This package includes software and documentation. The report identifies the student as Deep Bisen only. Physical ESP32/DHT22 testing, target compilation, real ThingSpeak dashboard updates and delivered-email screenshots remain pending. See the report and evidence checklist before final submission.
 
 ## AI industrial chatbot — Deep Bisen
 
@@ -36,7 +36,7 @@ This package includes software and documentation. Physical ESP32/DHT22 testing, 
 - [Handwritten-style notes only](AI_Industrial_Chatbot_Deep_Bisen/handwritten_notes.pdf)
 - [Source, sample documents and evidence](AI_Industrial_Chatbot_Deep_Bisen)
 
-Notes are digitally typeset in a handwriting-style font. Retrieval and the explicit no-LLM CLI baseline were tested; actual Hugging Face generation and real LLM interaction screenshots remain pending. Fill personal-detail placeholders and complete that demonstration before claiming all assignment requirements are met.
+Notes are digitally typeset in a handwriting-style font. Retrieval and the explicit no-LLM CLI baseline were tested; actual Hugging Face generation and real LLM interaction screenshots remain pending. The report identifies the student as Deep Bisen only. Complete the demonstration before claiming all assignment requirements are met.
 
 ## ROS 2 URDF 4-DOF arm — Deep Bisen
 
@@ -45,4 +45,4 @@ Notes are digitally typeset in a handwriting-style font. Retrieval and the expli
 - [Editable Word report](ROS2_URDF_4DOF_Arm_Deep_Bisen/report_editable.docx)
 - [URDF, ROS 2 launch and RViz configuration](ROS2_URDF_4DOF_Arm_Deep_Bisen/arm_description)
 
-URDF parsing, static structure/inertia checks and four forward-kinematics test poses passed. ROS 2 execution, RViz visualization and live TF screenshots remain pending. The included arm renders and frame graph are clearly labelled static illustrations. Fill personal details and add real runtime evidence before final submission.
+URDF parsing, static structure/inertia checks and four forward-kinematics test poses passed. ROS 2 execution, RViz visualization and live TF screenshots remain pending. The included arm renders and frame graph are clearly labelled static illustrations. The report identifies the student as Deep Bisen only. Add real runtime evidence before final submission.

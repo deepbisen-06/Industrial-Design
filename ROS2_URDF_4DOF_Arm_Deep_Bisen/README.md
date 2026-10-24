@@ -39,6 +39,6 @@ These checks were executed. See evidence/validation_results.txt and evidence/fk_
 ## Complete the required evidence
 Add genuine screenshots of RViz home and bent poses, GUI sliders, and generated live TF frames PDF. Record /joint_states and tf2_echo output. Update the report with actual observations. A real ROS2 runtime was unavailable in the preparation environment, so those screenshots are not supplied or fabricated.
 
-Fill roll number, college and semester before submission. Upload report, package and actual screenshots to Google Drive in ROS2_URDF_4DOF_Arm_Deep_Bisen and share the link as required by the assignment.
+Upload report, package and actual screenshots to Google Drive in ROS2_URDF_4DOF_Arm_Deep_Bisen and share the link as required by the assignment.
 
 The effort/velocity limits and masses are educational assumptions. The model is kinematic, not a validated industrial machine; no Gazebo controller, actuator sizing, self-collision planning, or dynamic simulation is included.
