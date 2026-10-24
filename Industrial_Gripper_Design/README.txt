@@ -1,7 +1,6 @@
 INDUSTRIAL GRIPPER DESIGN - DEEP BISEN
 
-Open report.pdf first. Fill remaining cover details before submission.
-report_editable.docx is an editable text-and-figure companion; PDF is the formatted report.
+Open report.pdf first. The report identifies the student as Deep Bisen.
 
 cad_files/: individual STEP solids, coloured assembly STEP, dimensioned SVG drawing,
 concept/assembly images, motion checks, and build_cad.py parametric source.

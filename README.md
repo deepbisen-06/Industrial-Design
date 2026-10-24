@@ -10,7 +10,7 @@ Academic 2-finger parallel-jaw gripper project with yellow and blue CAD geometry
 - [CAD parts and assembly](Industrial_Gripper_Design/cad_files)
 - [Simulation results and solver](Industrial_Gripper_Design/simulation_results)
 
-Fill the roll number, college, and semester placeholders before submission.
+The gripper report identifies the student as **Deep Bisen** only. Upload the complete ZIP as one file on the assignment portal; no extraction is needed for that upload.
 
 ## Reproduce
 
