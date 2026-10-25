@@ -1,8 +1,0 @@
-digraph arm { rankdir=TB; node [shape=box,style=filled,fillcolor="#e2edf8",fontname="Helvetica"]; graph [label="Validated static URDF tree — not live TF",labelloc=t];
-"world" -> "base_link" [label="world_fixed\nfixed"];
-"base_link" -> "shoulder_link" [label="joint1_base_yaw\nrevolute"];
-"shoulder_link" -> "upper_arm_link" [label="joint2_shoulder\nrevolute"];
-"upper_arm_link" -> "forearm_link" [label="joint3_elbow\nrevolute"];
-"forearm_link" -> "wrist_link" [label="joint4_wrist\nrevolute"];
-"wrist_link" -> "tool_link" [label="tool_fixed\nfixed"];
-}

@@ -1,5 +1,0 @@
-Industrial chatbot | EXTRACTIVE BASELINE — NO LLM
-EXTRACTIVE BASELINE (no LLM):
-[training_manual.txt:2.1] Bearing inspection For the sample training conveyor, inspect bearings every 250 operating hours. Stop and isolate the conveyor before inspection. Record bearing noise, vibration and temperature trends. Escalate unusual changes to the maintenance supervisor.
-Industrial chatbot | EXTRACTIVE BASELINE — NO LLM
-Not found in the supplied documents.
